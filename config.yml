@@ -1,0 +1,12 @@
+solr:
+  core:  # my_core 
+  url:  # http://localhost:8983
+  data_lenght:  # 1000 lenght of array  of data 
+
+
+
+mongodb:
+  db: 
+  collection: 
+  url:  # mongodb+srv://localhost:27017     must be Replica Set 
+  timeout:  # 3 it is in seconds
